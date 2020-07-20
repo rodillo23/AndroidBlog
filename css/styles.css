@@ -33,11 +33,23 @@ body{
 #post{
     box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, .50);
     border-radius: 1em;
-    width: 300px;
-    padding: 1em;
+    width: 250px;
+    padding: .8em;
+}
+
+#post h1{
+    background-color: #ddd;
+    padding: .5em;
+    text-align: center;
+    border-radius: 5px;
 }
 
 #post p{
     text-align: justify;
+}
 
+#leer_mas{
+    color:deeppink;
+    display: block;
+    text-align: right;
 }
