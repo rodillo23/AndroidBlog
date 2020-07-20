@@ -24,6 +24,20 @@ body{
     margin: 0 auto;
 }
 
-#post{
+#posts{
     padding: 1em;
+    display: flex;
+    justify-content: space-around;
+}
+
+#post{
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, .50);
+    border-radius: 1em;
+    width: 300px;
+    padding: 1em;
+}
+
+#post p{
+    text-align: justify;
+
 }
