@@ -61,3 +61,15 @@ body{
     display: block;
     text-align: right;
 }
+
+#footer{
+    background-color: #33a;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+#footer a{
+    text-decoration: none;
+    color: white;
+}
