@@ -1,5 +1,5 @@
-#androidblog 👽
->Este codigo es un ejemplo que yo utilice durante el curso de Git y Github de Platzi, mas que nada fue codigo para seguir los comandos utilizados durante el curso.
+# androidblog 👽
+> Este codigo es un ejemplo que yo utilice durante el curso de Git y Github de Platzi, mas que nada fue codigo para seguir los comandos utilizados durante el curso.
 
 > - Rodolfo Figueroa
 
