@@ -9,5 +9,5 @@
 * Buenas Practicas
 * Algunos trucos del Profesor
 * Creado por el team Platzi 
-
+* El mejor curso de Git online
 [Acceder al curso](https://platzi.com/cursos/git-github)
