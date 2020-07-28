@@ -8,5 +8,6 @@
 * Flujo de trabajo en GitHub
 * Buenas Practicas
 * Algunos trucos del Profesor
+* Creado por el team Platzi 
 
 [Acceder al curso](https://platzi.com/cursos/git-github)
